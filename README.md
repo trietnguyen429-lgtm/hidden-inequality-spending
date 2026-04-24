@@ -2,7 +2,6 @@ Hidden Inequality in Everyday Spending
 A SQL Analysis of CFPB Consumer Complaint Data
 By Triet Minh Nguyen
 
-Overview
 This project uses SQL to analyze over 3 million consumer complaints filed with the Consumer Financial Protection Bureau (CFPB). The goal is to uncover patterns of inequality in how financial products are complained about, and how companies respond or fail to respond to the most vulnerable consumers.
 
 Key Question: Are consumers of high-risk financial products like payday loans and debt collection services being systematically underserved compared to others?
