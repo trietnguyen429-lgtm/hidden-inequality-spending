@@ -8,13 +8,10 @@ This project uses SQL to analyze over 3 million consumer complaints filed with t
 Key Question: Are consumers of high-risk financial products like payday loans and debt collection services being systematically underserved compared to others?
 Spoiler: Yes.
 
-Dataset
-
 Source: Google BigQuery Public Datasets
 Table: bigquery-public-data.cfpb_complaints.complaint_database
 Size: 3+ million complaints
 Columns include: product, issue, company name, state, company response, timely response, date received
-
 
 Findings
 1. Credit Reporting Dominates Complaints
@@ -24,17 +21,22 @@ California, Florida, and Texas lead in total complaints as expected by populatio
 3. Companies Rarely Deliver Real Relief
 Of all complaints resolved:
 
-2.6 million were closed with just an explanation
-Only 129,000 received actual monetary relief — less than 4% of all complaints
-9,489 received untimely responses, meaning companies missed deadlines entirely
+- 2.6 million were closed with just an explanation
+- Only 129,000 received actual monetary relief — less than 4% of all complaints
+- 9,489 received untimely responses, meaning companies missed deadlines entirely
 
 4. Vulnerable Products Get the Slowest Responses
 Payday loans have a 10.77% untimely response rate — the second highest of any product category. These are products used primarily by low-income consumers who are least able to wait for resolution.
 5. Debt Collection Consumers Get the Least Relief
 Of 473,000 debt collection complaints, only 4,082 resulted in monetary relief — less than 1%. The vast majority were closed with an explanation and nothing more.
 
-Queries
-FileDescriptionquery1_complaints_by_product.csvTotal complaints by financial productquery2_complaints_by_state.csvTotal complaints by statequery3_complaints_by_company.csvTop 10 most complained about companiesquery4_company_responses.csvBreakdown of how companies respond to complaintsquery5_untimely_by_product.csvUntimely response rates by product categoryquery6_vulnerable_product_responses.csvResponse breakdown for payday loans, debt collection, and mortgages
+Queries:
+query1_complaints_by_product.csv = Total complaints by financial product
+query2_complaints_by_state.csv = Total complaints by state
+query3_complaints_by_company.csv = Top 10 most complained about companies
+query4_company_responses.csv = Breakdown of how companies respond to complaints
+query5_untimely_by_product.csv = Untimely response rates by product category
+query6_vulnerable_product_responses.csv = Response breakdown for payday loans, debt collection, and mortgages
 
 Tools Used
 
