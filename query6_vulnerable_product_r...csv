@@ -1,0 +1,25 @@
+product,company_response_to_consumer,total
+Debt collection,Closed with explanation,397026
+Debt collection,Closed with non-monetary relief,58178
+Debt collection,Closed,7169
+Debt collection,Untimely response,4957
+Debt collection,Closed with monetary relief,4082
+Debt collection,In progress,1659
+Mortgage,Closed with explanation,324554
+Mortgage,Closed with non-monetary relief,18510
+Mortgage,Closed with monetary relief,11420
+Mortgage,Closed without relief,10630
+Mortgage,Closed,5686
+Mortgage,Closed with relief,1397
+Mortgage,Untimely response,823
+Mortgage,In progress,619
+Payday loan,Closed with explanation,4630
+Payday loan,Closed with monetary relief,272
+Payday loan,Untimely response,230
+Payday loan,Closed with non-monetary relief,213
+Payday loan,Closed,196
+"Payday loan, title loan, or personal loan",Closed with explanation,23989
+"Payday loan, title loan, or personal loan",Closed with monetary relief,1376
+"Payday loan, title loan, or personal loan",Closed with non-monetary relief,1353
+"Payday loan, title loan, or personal loan",Untimely response,372
+"Payday loan, title loan, or personal loan",In progress,220
