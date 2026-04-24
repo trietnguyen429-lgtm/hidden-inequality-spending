@@ -18,7 +18,6 @@ Findings
 2. Certain States Are Disproportionately Affected
 - California, Florida, and Texas lead in total complaints as expected by population. However, Georgia punches significantly above its weight, ranking 5th nationally despite being the 8th most populous state.
 3. Companies Rarely Deliver Real Relief
-Of all complaints resolved:
 - 2.6 million were closed with just an explanation
 - Only 129,000 received actual monetary relief which is less than 4% of all complaints
 - 9,489 received untimely responses, meaning companies missed deadlines entirely
