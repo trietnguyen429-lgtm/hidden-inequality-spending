@@ -31,12 +31,12 @@ Payday loans have a 10.77% untimely response rate — the second highest of any 
 Of 473,000 debt collection complaints, only 4,082 resulted in monetary relief — less than 1%. The vast majority were closed with an explanation and nothing more.
 
 Queries:
-query1_complaints_by_product.csv = Total complaints by financial product
-query2_complaints_by_state.csv = Total complaints by state
-query3_complaints_by_company.csv = Top 10 most complained about companies
-query4_company_responses.csv = Breakdown of how companies respond to complaints
-query5_untimely_by_product.csv = Untimely response rates by product category
-query6_vulnerable_product_responses.csv = Response breakdown for payday loans, debt collection, and mortgages
+- query1_complaints_by_product.csv = Total complaints by financial product
+- query2_complaints_by_state.csv = Total complaints by state
+- query3_complaints_by_company.csv = Top 10 most complained about companies
+- query4_company_responses.csv = Breakdown of how companies respond to complaints
+- query5_untimely_by_product.csv = Untimely response rates by product category
+- query6_vulnerable_product_responses.csv = Response breakdown for payday loans, debt collection, and mortgages
 
 Tools Used
 
